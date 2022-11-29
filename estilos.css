@@ -1,0 +1,10 @@
+.alto {
+    @media (min-width:992px){
+        height: 100vh;
+    }
+}
+
+.body{
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/750/198/343/minimalism-pikachu-pokemon-wallpaper-preview.jpg);
+    color: #FFFFFF;
+}
